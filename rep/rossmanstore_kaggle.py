@@ -22,4 +22,4 @@ test2[['Id' , 'Sales']].to_csv(output_file , index = False)
 
 
 # this type of analysis is very new to me and i am still learning 
-THe pandas tutorial on kaggle was the reason i made this .
+THe pandas tutorial on kaggle was the reason i made this . I could not test it on kaggle but in data validation gave a score of 79
